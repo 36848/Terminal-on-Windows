@@ -23,3 +23,6 @@ pip install requests/Pillow/ezdxf/numpy
 python main.py
 
 加一个 Flask
+
+## 格式化整个文档  vs code
+- Shift + Alt + F
